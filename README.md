@@ -1,4 +1,4 @@
-<img width="228" height="281" alt="image" src="https://github.com/user-attachments/assets/db955b70-ed1e-493e-bf32-e3990ed6e0f2" />**Wash Shoes API**
+**Wash Shoes API**
 
 REST API sederhana untuk layanan daftar barang cuci sepatu, dibuat menggunakan **Node.js + Express.js** dan disimpan di **Supabase Database**.  
 API ini mendukung fitur **CRUD (Create, Read, Update, Delete)** serta **filter status** pada data sepatu. Wash Shoes API adalah proyek backend sederhana yang digunakan untuk mencatat, memperbarui, dan menghapus data cucian sepatu.  
@@ -109,6 +109,7 @@ agar mengurangi kekeliruan
         "updated_at": "2025-10-23T14:08:13.865627+00:00"
     }
 }
+
 
 
 
